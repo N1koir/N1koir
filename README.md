@@ -21,11 +21,11 @@
 </div>
 
 <div id="headerSkills_Icon2" align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,ps,ai,pr,ae,xd,blender"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,ps,ai,pr,ae,blender"/>
 </div>
 
 <div id="headerSkills_Icon3" align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,sass,md,postgres,mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,html,css,md,postgres,mysql,sqlite"/>
 </div>
 
 ----------
