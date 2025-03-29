@@ -24,10 +24,6 @@
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,postgres,sqlite"/>
 </div>
 
-<div id="headerSkills_Icon2" align="center">
-  <img src="https://skillicons.dev/icons?i=,"/>
-</div>
-
 <div id="headerSkills_Icon3" align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,sass,md,javascript,react"/>
 </div>
