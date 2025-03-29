@@ -38,8 +38,8 @@
   <h4>📊 My statistics 📊</h4>
 </div>
 
-<div id="headerStatistics_SnakeAnimation" align="center">
-  <img src="https://raw.githubusercontent.com/nikoirdevelopment/nikoirdevelopment/output_SnakeAnimation/github-contribution-grid-snake.svg"/>
+<div id="" align="center">
+  <img src=""/>
 </div>
 
 ----------
