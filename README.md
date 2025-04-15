@@ -31,5 +31,5 @@
 <p></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,javascript,ts,md,postgres,sqlite,mysql"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,javascript,ts,md,postgres,mysql,sqlite"/>
 </div>
