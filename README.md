@@ -1,18 +1,19 @@
 <div id="headerREADME_Title" align="center">
   <p> ꧁༺ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 🤘 ༻꧂ </p>
   
-  <h1 align="center">
+  <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikoir+Development!;" />
-  </h1>
+  </p>
 </div>
 
-<div id="headerREADME_Description" align="center">
-  <p>👋My name is Nikita! I am a novice programmer, I really like to create not only functional and beautiful products, but also to experiment🤘</p>
+<div align="center">
+  <p>👋 My name is Nikita! 👋</p>
+  <p>✌️ I am a designer and programmer, I really like to create functional and beautiful products that could be useful to the world ✌️</p>
 </div>
 
-----------
 
-<p align="center">🛠️ I USE ⚒️</p>
+<h1></h1> 
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu"/>
