@@ -12,20 +12,25 @@
 
 ----------
 
-<div id="headerSkills_Title" align="center">
-  <p>⚒️ Languages-Frameworks-Tools ⚒️</p>
+<p align="center">🛠️ I USE ⚒️</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu"/>
 </div>
 
-<div id="headerSkills_Icon1" align="center">
-  <img src="https://skillicons.dev/icons?i=windows,apple"/>
+<p></p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,githubactions,git,visualstudio,rider,vscode,webstorm,docker,redis,nginx,kafka,godot"/>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,figma,xd,blender"/>
 </div>
 
-<div id="headerSkills_Icon2" align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,godot,postgres,sqlite"/>
-</div>
+<p></p>
 
-<div id="headerSkills_Icon3" align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,md,javascript,react"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,javascript,ts,md,postgres,sqlite,mysql"/>
 </div>
 
 ----------
