@@ -32,15 +32,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,javascript,ts,md,postgres,sqlite,mysql"/>
 </div>
-
-----------
-
-<div id="headerStatistics_Title" align="center">
-  <h4>📊 My statistics 📊</h4>
-</div>
-
-<div id="" align="center">
-  <img src=""/>
-</div>
-
-----------
