@@ -26,5 +26,5 @@
 <p></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,html,css,javascript,ts,md,postgres,mysql,sqlite"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,ts,md,react,postgres,sqlite"/>
 </div>
