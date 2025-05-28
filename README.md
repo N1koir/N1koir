@@ -17,7 +17,7 @@
 <p></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,githubactions,git,visualstudio,rider,vscode,webstorm,docker,kubernetes,redis,nginx,kafka,godot"/>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,git,visualstudio,vscode,webstorm,docker,kubernetes,redis,nginx,kafka,godot"/>
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma,blender"/>
