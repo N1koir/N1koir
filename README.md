@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows"/>
+  <img src="https://skillicons.dev/icons?i=windows,apple"/>
 </div>
 
 <p></p>
@@ -26,5 +26,5 @@
 <p></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,javascript,ts,md,react,vite,postgres"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,ts,md,react,vite,postgres"/>
 </div>
