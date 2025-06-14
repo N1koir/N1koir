@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,apple,ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=windows"/>
 </div>
 
 <p></p>
