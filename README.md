@@ -35,5 +35,6 @@
 <div class="statistics languages" align="center">
   <h1></h1>
   <h3>My statistics on programming languages</h3> 
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=N1koir&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
