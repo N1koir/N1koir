@@ -1,30 +1,39 @@
-<div align="center">
-  <p> ꧁༺ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 🤘 ༻꧂ </p>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+N1koir!;" />
-  
-  <p>👋 My name is Nikita! 👋</p>
-  <p>✌️ I am a designer and programmer ✌️<br>I love creating functional and beautiful products</p>
+<div class="main" align="center">
+  <h1> ༺ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 🤘 ༻ </h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Sixtyfour&size=35&color=F79E0C&center=true&width=700&height=70&duration=3000&pause=1000&lines=Hi!;+I'm+N1koir!;+👋+My+name+is+Nikita!+👋" />
+  <p>🎨 I am a designer and programmer 💻</p>
+  <p>✌️ I love creating functional and beautiful products ✌️</p>
 </div>
 
+<div class="I use" align="center">
+  <h1></h1> 
+  <h3>What I use for work</h3> 
 
-<h1></h1> 
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,apple"/>
+  <div>
+    <div>
+      <img src="https://skillicons.dev/icons?i=windows,linux,apple"/>
+    </div>
+    <p></p>
+    <div>
+      <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,webstorm,docker,kubernetes,nginx,godot"/>
+    </div>
+    <div>
+        <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma"/>
+    </div>
+    <p></p>
+    <div>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,md,html,css,js,vite,react,tailwindcss,ts,postgres,redis,kafka"/>
+    </div>
+  </div>
 </div>
 
-<p></p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,githubactions,visualstudio,vscode,webstorm,docker,kubernetes,redis,nginx,kafka,godot"/>
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma"/>
+<div class="activity GitHub" align="center">
+  <h1></h1>
+  <h3>My activity as a programmer</h3> 
 </div>
 
-<p></p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,tailwindcss,js,ts,md,react,vite,postgres"/>
+<div class="statistics languages" align="center">
+  <h1></h1>
+  <h3>My statistics on programming languages</h3> 
 </div>
+
