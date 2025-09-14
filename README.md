@@ -15,14 +15,14 @@
     </div>
     <p></p>
     <div>
-      <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,webstorm,docker,kubernetes,nginx,godot"/>
+      <img src="https://skillicons.dev/icons?i=github,vscode,rider,webstorm,docker,kubernetes,godot"/>
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma"/>
     </div>
     <p></p>
     <div>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,vite,react,html,tailwindcss,ts,md,postgres,redis,kafka"/>
+      <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,vite,react,html,css,tailwindcss,ts,md,postgres,redis,kafka,mongodb"/>
     </div>
   </div>
 </div>
