@@ -15,7 +15,7 @@
     </div>
     <p></p>
     <div>
-      <img src="https://skillicons.dev/icons?i=github,vscode,rider,webstorm,docker,kubernetes,godot"/>
+      <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,rider,webstorm,docker,kubernetes,godot"/>
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd"/>
