@@ -22,7 +22,7 @@
     </div>
     <p></p>
     <div>
-      <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,vite,react,html,css,tailwindcss,ts,md,postgres,redis,kafka,mongodb"/>
+      <img src="https://skillicons.dev/icons?i=,cs,dotnet,vite,html,css,react,ts,tailwindcss,md,bdart,flutter,postgres,redis,kafka"/>
     </div>
   </div>
 </div>
