@@ -1,29 +1,22 @@
-<div class="main" align="center">
-  <h1> ༺ 👋 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 🤘 ༻ </h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Sixtyfour&size=35&color=F79E0C&center=true&width=700&height=70&duration=3000&pause=1000&lines=Hi!;+I'm+N1koir!;+👋+My+name+is+Nikita!+👋" />
-  <p>🎨 I am a designer and programmer 💻</p>
-  <p>✌️ I love creating functional and beautiful products ✌️</p>
+# Привет Всем! 👋
+**Меня зовут Никита** - я fullstack разработчик. В свободное время от работы я работаю над кучей случайных проектов.
+
+<div> 
+  <a href="https://dotnet.microsoft.com/ru-ru" target="_blank"><img src="https://skillicons.dev/icons?i=net" alt=".NET" /></a>
+  <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/ru-ru/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://tauri.app" target="_blank"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" /></a>
+  <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://www.markdownguide.org" target="_blank"><img src="https://skillicons.dev/icons?i=md" alt="Markdown" /></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /></a>
 </div>
-
-<div class="I use" align="center">
-  <h1></h1> 
-  <h3>What I use for work</h3> 
-
-  <div>
-    <div>
-      <img src="https://skillicons.dev/icons?i=windows,linux,apple"/>
-    </div>
-    <p></p>
-    <div>
-      <img src="https://skillicons.dev/icons?i=github,visualstudio,vscode,rider,webstorm,docker,kubernetes"/>
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd"/>
-    </div>
-    <p></p>
-    <div>
-      <img src="https://skillicons.dev/icons?i=,cs,dotnet,vite,html,css,react,ts,tailwindcss,md,bdart,flutter,postgres,redis,kafka"/>
-    </div>
-  </div>
-</div>
-
