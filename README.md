@@ -3,7 +3,6 @@
 
 <div> 
   <a href="https://dotnet.microsoft.com/ru-ru" target="_blank"><img src="https://skillicons.dev/icons?i=net" alt=".NET" /></a>
-  <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
   <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
