@@ -8,6 +8,7 @@
   <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
   <a href="https://www.w3.org/Style/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/ru-ru/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://tauri.app" target="_blank"><img src="https://skillicons.dev/icons?i=tauri" alt="Tauri" /></a>
   <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
   <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
