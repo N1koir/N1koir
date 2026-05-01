@@ -1,0 +1,102 @@
+{
+  // ==================== ИНТЕРФЕЙС И ТЕМА ====================
+  "workbench.colorTheme": "Bearded Theme Arc Blueberry",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "JetBrains Mono, Fira Code, 'Cascadia Code', Consolas, monospace",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 12.5,
+  "editor.lineHeight": 1.5,
+  "editor.minimap.enabled": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 80,
+
+  // ==================== РАЗНОЦВЕТНЫЕ СКОБКИ ====================
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#FFB86C",
+    "editorBracketHighlight.foreground2": "#62D6E8",
+    "editorBracketHighlight.foreground3": "#BD93F9",
+    "editorBracketHighlight.foreground4": "#F1FA8C",
+    "editorBracketHighlight.foreground5": "#FF79C6",
+    "editorBracketHighlight.foreground6": "#8bfdbe",
+  },
+  "editor.guides.bracketPairs": "active",
+
+  // ==================== ФОРМАТИРОВАНИЕ (PRETTIER) ====================
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.trailingComma": "es5",
+  "prettier.printWidth": 120,
+  "prettier.jsxSingleQuote": false,
+  "prettier.bracketSameLine": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[sql]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null,
+  },
+  "[mysql]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null,
+  },
+  "[plsql]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null,
+  },
+
+  // ==================== ЛИНТИНГ (ESLINT) ====================
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "eslint.run": "onSave",
+  "eslint.format.enable": true,
+  "eslint.codeAction.showDocumentation": { "enable": true },
+
+
+  // ==================== РАБОТА С ТЕГАМИ ====================
+  "html.autoClosingTags": false,
+  "auto-close-tag.SublimeText3Mode": true,
+  "auto-close-tag.activationOnLanguage": [
+    "html",
+    "xml",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+  ],
+  "editor.linkedEditing": true,
+
+  // ==================== ПОДДЕРЖКА HTML/CSS ====================
+  "css.styleSheets": ["src/**/*.css", "**/*.css"],
+
+  // ==================== ПРОВЕРКА ОРФОГРАФИИ ====================
+  "cSpell.language": "en,ru",
+  "cSpell.enabled": true,
+  "cSpell.enabledFileTypes": {
+    "html": true,
+    "css": true,
+    "javascript": true,
+    "json": true,
+    "markdown": true,
+    "sql": true,
+  },
+  "cSpell.words": ["const", "typeof", "instanceof"],
+
+  // ==================== ТЕРМИНАЛ ====================
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.fontSize": 13,
+
+  // ==================== ЖИВЫЕ СЕРВЕРЫ ====================
+  "fiveServer.port": 5500,
+  "fiveServer.browser": ["edge"],
+  "fiveServer.ignore": [".vscode/**"],
+
+  // ==================== ПРОБЕЛЫ В КОНЦЕ СТРОК ====================
+  "files.trimTrailingWhitespace": true,
+  "trailing-spaces.trimOnSave": true,
+
+  // ==================== ПРОЧЕЕ ====================
+  "editor.autoClosingBrackets": "always",
+  "editor.renderWhitespace": "selection",
+}
