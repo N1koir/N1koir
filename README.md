@@ -1,5 +1,5 @@
-# Привет Всем! 👋
-**Меня зовут Никита** - я fullstack разработчик. В свободное время от работы я работаю над кучей случайных проектов.
+# Hello everyone! 👋
+**My name is Nikita** - I am a fullstack developer. In my free time, I work on a bunch of random projects.
 
 <div> 
   <a href="https://dotnet.microsoft.com/ru-ru" target="_blank"><img src="https://skillicons.dev/icons?i=net" alt=".NET" /></a>
