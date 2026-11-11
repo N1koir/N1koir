@@ -3,7 +3,4 @@
 
 <!-- Check out my [portfolio](). -->
 
-[![SkillIcons](https://skillicons.dev/icons?i=dotnet,cs,postgres,redis,kafka,docker,kubernetes)](https://skillicons.dev) <br/>
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql)](https://skillicons.dev) <br/>
-[![SkillIcons](https://skillicons.dev/icons?i=react,tailwindcss,vite,tauri,rust)](https://skillicons.dev) <br/>
-[![SkillIcons](https://skillicons.dev/icons?i=md,lua)](https://skillicons.dev) <br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,tailwindcss,vite,tauri,rust,dotnet,cs,postgres,redis,kafka,docker,kubernetes,md,lua)](https://skillicons.dev) <br/>
