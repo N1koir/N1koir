@@ -3,4 +3,4 @@
 
 <!-- Check out my [portfolio](). -->
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,react,tailwindcss,vite,tauri,rust,dotnet,cs,postgres,redis,kafka,docker,kubernetes,md,lua)](https://skillicons.dev) <br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,php,vite,react,tailwindcss,tauri,rust,dotnet,cs,lua,docker,kubernetes,postgres,redis,kafka,mysql,md)](https://skillicons.dev) <br/>
